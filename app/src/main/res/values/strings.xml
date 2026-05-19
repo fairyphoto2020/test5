@@ -26,5 +26,5 @@
     <!-- 🔘 Text for the CTA button that launches the TWA website -->
     <string name="get_started_text">GET STARTED</string>
 
-    <string name="app_description">Seamless Access to Services &amp; Products</string>
+    <string name="app_description">Practical Tools and Clean Workflows</string>
 </resources>
